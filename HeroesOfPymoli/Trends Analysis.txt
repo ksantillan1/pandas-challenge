@@ -1,0 +1,15 @@
+Trend 1: Purchasing Analysis (Gender)
+
+Although there is more male than female players, females tend to buy more and expend more on every purchase. 
+Females average purchase price is $3.20 and average total purchase per person is 4.47 compare to male 3.02 and 4.07 respectively. 
+
+Trend 2: Age Demographics
+
+The great majority of the players, about 44% are age 20-24,with the least being over 40 and under 10. 
+Being the majority of players age 20-24 , the majority of the sales are made by players 20-24, 
+however, the players age 34-39 are the ones to spend the most, with an average purchase per person being 4.76 
+comparing to players age 20-24 who spend on average 4.32.
+
+Trend 3: Popular Items
+
+The most popular is Oathbreaker, Last Hope of the Breaking Storm, and it is the item with the largest purchase value.

@@ -1,0 +1,12 @@
+Trend1: Performing Schools by budget and Size
+
+The budget assigned to the bottoms schools are a lot larger than the budget assigned to the top, 
+and that is not only because of the bottom performers school size being larger. 
+When breaking down by budget per student you can observe that student with lower spending budget are the higher performers. 
+There is also a relationship between size and performance. The larger the school is, the lower the performance is
+
+Trend2: Performing Schools by Type
+
+There were two type of schools in the data, District and charter, 
+and we be observed that the performance of the Charter type of school is higher than the performance of the District schools.
+With an overall passing rate of 95% comparing to 73%.
